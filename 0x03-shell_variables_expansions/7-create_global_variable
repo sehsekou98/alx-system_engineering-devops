@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $(($BEST School))
-echo $((2#4BEST SCHOOL))
+echo $((2#$BEST SCHOOL))
